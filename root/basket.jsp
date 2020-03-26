@@ -51,7 +51,7 @@ function decQuantity (prodid) {
 	if (basketId != null) {
 		// Dont need to do anything else
 			
-		// Well, apart from checking to see if they've accessed someone elses basket ;)
+		//sss Well, apart from checking to see if they've accessed someone elses basket ;)
 		//Statement stmt = conn.createStatement();
 //Security Fix
 		PreparedStatement preparedStatement = con.prepareStatement(sql);
