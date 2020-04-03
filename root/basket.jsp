@@ -8,6 +8,8 @@
 
 <%@ include file="/dbconnection.jspf" %>
 
+
+<%--Trying to force a scan--%>
 <script type="text/javascript">
     function incQuantity (prodid) {
     var q = document.getElementById('quantity_' + prodid);
