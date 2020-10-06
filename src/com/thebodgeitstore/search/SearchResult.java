@@ -2,6 +2,7 @@ package com.thebodgeitstore.search;
 
 //Author: Doug Logan
 //Email: dlogan@CyberNinjas.com
+// testing Cxflow
 
 public class SearchResult {
     private String product = "";
